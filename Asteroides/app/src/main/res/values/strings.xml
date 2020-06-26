@@ -9,4 +9,10 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="inicio">Jugar</string>
+    <string name="configuracion">Configuración</string>
+    <string name="salir">Salir</string>
+    <string name="d_adicional">Información</string>
 </resources>
