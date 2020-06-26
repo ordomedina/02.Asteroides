@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="inicio">Play</string>
+    <string name="configuracion">Configuration</string>
+    <string name="salir">Exit</string>
+    <string name="d_adicional">About</string>
+    <string name="titulo">Stones</string>
+</resources>
